@@ -20,4 +20,4 @@ Just started. Nothing is built yet.
 
 ## Rules I follow
 - I write the code myself and test everything.
-- No secrets are committed.# ai-incident-triage-assistant
+- No secrets are committed.
